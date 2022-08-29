@@ -1,0 +1,21 @@
+{
+  "name": "darkcit",
+  "displayName": "darkCIT",
+  "description": "combination of nord and dracula with tailwind colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark CIT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark CIT-color-theme.json"
+      }
+    ]
+  }
+}
