@@ -1,10 +1,20 @@
 {
   "name": "darkcit",
   "displayName": "darkCIT",
-  "description": "combination of nord and dracula with tailwind colors",
+  "description": "dark theme as a combination of nord and dracula with tailwind colors",
+  "publisher": "cit116",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
+  },
+  "icon": "icons/darkCIT.png",
+  "author": {
+    "name": "cit116",
+    "email": "riedadr@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/riedadr/darkCIT",
+    "type": "git"
   },
   "categories": [
     "Themes"
