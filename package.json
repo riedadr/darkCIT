@@ -1,9 +1,9 @@
 {
   "name": "darkcit",
   "displayName": "darkCIT",
-  "description": "dark theme as a combination of nord and dracula with tailwind colors",
+  "description": "dark theme based on nord with tailwind colors inspired by dracula",
   "publisher": "cit116",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },
