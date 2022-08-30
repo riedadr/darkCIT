@@ -19,6 +19,7 @@ borders: #334155
 accent: #ff5000
 
 | Color (hex)                                                  | tailwind    | Element                                                                  |
+| ------------------------------------------------------------ |------------ | ------------------------------------------------------------------------ |
 | ![](https://singlecolorimage.com/get/db2777/32x32) `#db2777` | pink-600    | invalid text                                                             |
 | ![](https://singlecolorimage.com/get/ec4899/32x32) `#ec4899` | pink-500    | variables (localStorage, console), import { something }                  |
 | ![](https://singlecolorimage.com/get/f43f5e/32x32) `#f43f5e` | rose-500    | sub-methods, language-methods, deleted (markup)                          |
